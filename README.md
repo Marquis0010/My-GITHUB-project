@@ -5,14 +5,6 @@ This software aggregates examination questions across different subjects. For ea
 
 The system can generate exam questions which are printable on paper.
 
-
-
-## Actors/Objects of the System
-* Students
-* Examiners
-* System Administrator
-
-
 ## Use Case Scenarios
 * Students
   * Take Exams
