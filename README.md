@@ -24,4 +24,3 @@ The system can generate exam questions which are printable on paper.
 * System Administrator
   * Manage users of the system
   * Manage content
-
